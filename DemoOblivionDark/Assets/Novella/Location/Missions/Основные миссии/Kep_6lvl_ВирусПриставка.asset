@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1116b589b6751af4f88792b32b767056, type: 3}
+  m_Name: "Kep_6lvl_\u0412\u0438\u0440\u0443\u0441\u041F\u0440\u0438\u0441\u0442\u0430\u0432\u043A\u0430"
+  m_EditorClassIdentifier: 
+  Player: 1
+  Name: 7
+  TitleRus: "\u041C\u0430\u0441\u0442\u0435\u0440 \u043D\u0430 \u0432\u0441\u0435
+    \u0440\u0443\u043A\u0438"
+  TitleEng: Jack of all Trades
+  TitlePor: "M\xE3os h\xE1beis"
+  Main: 1
+  Icon: {fileID: 21300000, guid: 54eeeca973ed9c3419026a9304849b6e, type: 3}
+  Missions:
+  - DescriptionRus: "\u0414\u043B\u044F \u043F\u0440\u043E\u0434\u043E\u043B\u0436\u0435\u043D\u0438\u044F
+      \u0441\u0438\u043D\u0445\u0440\u043E\u043D\u0438\u0437\u0430\u0446\u0438\u0438
+      \u043F\u043E\u0434\u043E\u0439\u0434\u0438 \u043A \u0421\u0430\u0439\u0442\u0430\u043C\u0435."
+    DescriptionEng: To continue syncing, go to Saitama.
+    DescriptionPor: "Para continuar a sincroniza\xE7\xE3o, aproxime-se da Saitama."
+    NameLoc: 6
+  - DescriptionRus: "\u0412\u0438\u0440\u0443\u0441 \u0434\u0430\u0432\u043D\u043E
+      \u0436\u0430\u0436\u0434\u0430\u043B \u0441\u043F\u0430\u0440\u0440\u0438\u043D\u0433
+      \u0441 \u0421\u0430\u0439\u0442\u0430\u043C\u043E\u0439. \u0412\u043E\u0442
+      \u043F\u043E\u044F\u0432\u0438\u043B\u0430\u0441\u044C \u0442\u0430\u043A\u0430\u044F
+      \u0432\u043E\u0437\u043C\u043E\u0436\u043D\u043E\u0441\u0442\u044C, \u043D\u043E
+      \u0437\u0430 \u044D\u0442\u043E \u043D\u0430\u0434\u043E \u043F\u043E\u0447\u0438\u043D\u0438\u0442\u044C
+      \u043C\u043E\u043D\u0438\u0442\u043E\u0440 \u0432 \u0433\u043E\u0441\u0442\u0438\u043D\u043E\u0439."
+    DescriptionEng: Vova has long been eager to spar with Saitama. Now there is such
+      an opportunity, but for this it is necessary to repair the monitor in the living
+      room.
+    DescriptionPor: "Virus h\xE1 muito anseia por uma luta com Saitama. Essa oportunidade
+      surgiu, mas para isso voc\xEA precisa consertar o monitor na sala de estar."
+    NameLoc: 8
+  - DescriptionRus: "\u0414\u043B\u044F \u0440\u0435\u043C\u043E\u043D\u0442\u0430
+      \u043C\u043E\u043D\u0438\u0442\u043E\u0440\u0430 \u043D\u0443\u0436\u0435\u043D
+      \u0442\u0435\u043A\u0441\u0442\u043E\u043B\u0438\u0442, \u043A\u0440\u0435\u043C\u043D\u0438\u0439
+      \u0438 3 \u043F\u043E\u043B\u0443\u043F\u0440\u043E\u0432\u043E\u0434\u043D\u0438\u043A\u0430."
+    DescriptionEng: To repair the monitor, you need a textolite, silicon and 3 semiconductors.
+    DescriptionPor: "Para reparar o monitor, voc\xEA precisa de textolite, sil\xEDcio
+      e 3 semicondutores."
+    NameLoc: 0
+  - DescriptionRus: "\u0412\u0438\u0440\u0443\u0441 \u043D\u0430\u0440\u0432\u0430\u043B\u0441\u044F.
+      \u041F\u043E\u0440\u0430 \u0431\u0435\u0436\u0430\u0442\u044C \u043E\u0442
+      \u0421\u0430\u0439\u0442\u0430\u043C\u044B \u043F\u043E\u0434\u0430\u043B\u044C\u0448\u0435.
+      \u041D\u0435\u0438\u0437\u0432\u0435\u0441\u0442\u043D\u043E, \u0448\u0443\u0442\u0438\u0442
+      \u043E\u043D \u0438\u043B\u0438 \u043D\u0435\u0442. \u0421\u043F\u0440\u044F\u0447\u044C\u0442\u0435\u0441\u044C
+      \u0432 \u0433\u043E\u0440\u0430\u0445 \u0433\u0434\u0435 \u0417\u0430\u043C\u043E\u043A
+      \u0412\u0435\u043A\u043E\u0432."
+    DescriptionEng: Virus enraged the hero. It's time to run away from Saitama. It
+      is not known whether he is joking or not. Hide in the mountains where the Castle
+      of Centuries.
+    DescriptionPor: "Virus irritou o her\xF3i. Hora de fugir de Saitama. N\xE3o se
+      sabe se ele est\xE1 brincando ou n\xE3o. Esconda-se nas montanhas onde fica
+      o Castelo das Eras."
+    NameLoc: 14
+  - DescriptionRus: "\u041F\u043E\u0440\u0442\u0430\u043B \u043E\u0442\u043A\u0440\u044B\u0442!
+      \u041F\u043E\u0440\u0430 \u0432\u043E\u0437\u0432\u0440\u0430\u0449\u0430\u0442\u044C\u0441\u044F
+      \u043D\u0430\u0437\u0430\u0434!"
+    DescriptionEng: The portal is open! It's time to go back!
+    DescriptionPor: "O portal est\xE1 aberto! \xC9 hora de voltar!"
+    NameLoc: 1

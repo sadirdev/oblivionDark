@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9147227b95a5edc4880864e02edf44a2, type: 3}
+  m_Name: Tower 4
+  m_EditorClassIdentifier: 
+  Blocks:
+  - {fileID: 254372305180703343, guid: bd1b7557994967343b2d1692264ef9ad, type: 3}
+  Scale:
+  - 2.4
+  - 2.275
+  - 2.15
+  - 2.025
+  - 1.9
+  - 1.775
+  - 1.65
+  - 1.525
+  - 1.4
+  - 1.525
+  - 1.65
+  - 1.775
+  - 1.9
+  - 2.025
+  - 2.15
+  - 2.275
+  - 2.4
+  DeltaRotate: 0

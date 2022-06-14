@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23b59f475cda3ef41b184efcb4429bd1, type: 3}
+  m_Name: LvlTower 70
+  m_EditorClassIdentifier: 
+  LvlStep:
+  - TowerSize: 49
+    Obstecles:
+    - PatternObj: {fileID: 5195369056639980899, guid: 607c08bcdb1e7bc41b82edc6fc10b3f1, type: 3}
+      Degrees: 180
+      Duration: 2.3
+      Delay: -45
+      LoopType: 2
+      Ease: 4
+      MoveMulty: []
+  - TowerSize: 50
+    Obstecles:
+    - PatternObj: {fileID: 5195369056639980899, guid: dbbfe36b47284bc49a9984d9df4c6f03, type: 3}
+      Degrees: 720
+      Duration: 16
+      Delay: 80
+      LoopType: 1
+      Ease: 4
+      MoveMulty: []
+  Tower: {fileID: 11400000, guid: d5958ddd39e1f8540ade6f8ae043713a, type: 2}
+  Colors:
+  - {r: 0.039426245, g: 0, b: 0.6886792, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}

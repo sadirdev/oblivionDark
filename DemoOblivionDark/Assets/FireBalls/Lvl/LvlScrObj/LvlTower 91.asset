@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23b59f475cda3ef41b184efcb4429bd1, type: 3}
+  m_Name: LvlTower 91
+  m_EditorClassIdentifier: 
+  LvlStep:
+  - TowerSize: 61
+    Obstecles:
+    - PatternObj: {fileID: 5195369056639980899, guid: b066ea501b199564cb9e75041cf8576b, type: 3}
+      Degrees: 720
+      Duration: 12
+      Delay: -30
+      LoopType: 1
+      Ease: 4
+      MoveMulty: []
+  - TowerSize: 43
+    Obstecles:
+    - PatternObj: {fileID: 5195369056639980899, guid: bfeebadcc00147c47ab9221c220a800a, type: 3}
+      Degrees: 180
+      Duration: 3.5
+      Delay: 90
+      LoopType: 2
+      Ease: 4
+      MoveMulty: []
+    - PatternObj: {fileID: 5195369056639980899, guid: c3e1e2d90e872784993095045a694640, type: 3}
+      Degrees: 360
+      Duration: 4
+      Delay: 0
+      LoopType: 2
+      Ease: 1
+      MoveMulty: []
+  - TowerSize: 53
+    Obstecles:
+    - PatternObj: {fileID: 5195369056639980899, guid: 8df12e911cc377041bf8b886b82c63d4, type: 3}
+      Degrees: 360
+      Duration: 3.2
+      Delay: 165
+      LoopType: 1
+      Ease: 4
+      MoveMulty:
+      - Degrees: -90
+        Duration: 2.5
+        Ease: 4
+    - PatternObj: {fileID: 5195369056639980899, guid: 8df12e911cc377041bf8b886b82c63d4, type: 3}
+      Degrees: 180
+      Duration: 2.5
+      Delay: 180
+      LoopType: 1
+      Ease: 4
+      MoveMulty:
+      - Degrees: -90
+        Duration: 2.5
+        Ease: 4
+  Tower: {fileID: 11400000, guid: 9ec282d71c3ac8b419d02eb59d2499b2, type: 2}
+  Colors:
+  - {r: 0.039426245, g: 0, b: 0.6886792, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}

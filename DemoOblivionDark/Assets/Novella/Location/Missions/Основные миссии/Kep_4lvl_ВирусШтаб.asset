@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1116b589b6751af4f88792b32b767056, type: 3}
+  m_Name: "Kep_4lvl_\u0412\u0438\u0440\u0443\u0441\u0428\u0442\u0430\u0431"
+  m_EditorClassIdentifier: 
+  Player: 1
+  Name: 5
+  TitleRus: "\u0428\u0442\u0430\u0431"
+  TitleEng: Headquarters
+  TitlePor: Quartel general
+  Main: 1
+  Icon: {fileID: 21300000, guid: 392233c5f9b28bc4d863b6623f2fb6e3, type: 3}
+  Missions:
+  - DescriptionRus: "\u041A\u0435\u043F\u043B\u0435\u0440 \u043E\u0431\u043D\u043E\u0432\u043B\u0451\u043D.
+      \u041F\u043E\u0440\u0430 \u043E\u0442\u043F\u0440\u0430\u0432\u043B\u044F\u0442\u044C\u0441\u044F
+      \u043A \u0421\u0430\u0439\u0442\u0430\u043C\u0435 \u0434\u043E\u043C\u043E\u0439
+      \u0434\u043B\u044F \u043F\u0440\u043E\u0434\u043E\u043B\u0436\u0435\u043D\u0438\u044F
+      \u0441\u0438\u043D\u0445\u0440\u043E\u043D\u0438\u0437\u0430\u0446\u0438\u0438."
+    DescriptionEng: Kepler has been updated. It's time to go to Saitama's home to
+      continue syncing.
+    DescriptionPor: "Kepler atualizado. \xC9 hora de ir para a casa de Saitama para
+      continuar a sincroniza\xE7\xE3o."
+    NameLoc: 6
+  - DescriptionRus: "\u041E\u0447\u0435\u0440\u0435\u0434\u043D\u043E\u0435 \u0441\u043E\u0431\u0440\u0430\u043D\u0438\u0435
+      \u0433\u0435\u0440\u043E\u0435\u0432. \u0412\u0438\u0440\u0443\u0441\u0443
+      \u043D\u0430\u0434\u043E \u044F\u0432\u0438\u0442\u044C\u0441\u044F \u0432
+      \u0448\u0442\u0430\u0431 \u0430\u0441\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0438
+      \u0433\u0435\u0440\u043E\u0435\u0432."
+    DescriptionEng: Another gathering of heroes. Virus needs to report to the headquarters
+      of the Association of Heroes.
+    DescriptionPor: "Mais um encontro de her\xF3is. Virus precisa aparecer na sede
+      da Associa\xE7\xE3o de her\xF3is."
+    NameLoc: 12
+  - DescriptionRus: "\u0414\u043E\u043C \u0421\u0430\u0439\u0442\u0430\u043C\u044B
+      \u0437\u0430\u043A\u0440\u044B\u0442. \u041E\u0442\u043F\u0440\u0430\u0432\u043B\u044F\u0439\u0441\u044F
+      \u0432 \u043C\u0430\u0433\u0430\u0437\u0438\u043D, \u0447\u0442\u043E\u0431\u044B
+      \u043F\u043E\u043C\u043E\u0447\u044C \u0433\u0435\u0440\u043E\u044E \u0441
+      \u043F\u043E\u043A\u0443\u043F\u043A\u0430\u043C\u0438."
+    DescriptionEng: Saitama's house is closed. Go to the store to help the hero with
+      his purchases.
+    DescriptionPor: "A casa de Saitama est\xE1 fechada. V\xE1 at\xE9 a loja para
+      ajudar o her\xF3i nas compras."
+    NameLoc: 13
+  - DescriptionRus: "\u041F\u043E\u043C\u043E\u0433\u0438 \u0421\u0430\u0439\u0442\u0430\u043C\u0435
+      \u0434\u043E\u0441\u0442\u0430\u0442\u044C \u0443\u043F\u0430\u043A\u043E\u0432\u043A\u0443
+      \u0441\u043E\u043A\u0430 \u0441 \u0432\u0435\u0440\u0445\u043D\u0435\u0439
+      \u043F\u043E\u043B\u043A\u0438."
+    DescriptionEng: Help Saitama get a juice pack from the top shelf.
+    DescriptionPor: Ajude Saitama a recuperar a caixa de suco da prateleira de cima.
+    NameLoc: 13
+  - DescriptionRus: "\u0414\u043B\u044F \u043F\u0440\u043E\u0434\u043E\u043B\u0436\u0435\u043D\u0438\u044F
+      \u0441\u0438\u043D\u0445\u0440\u043E\u043D\u0438\u0437\u0430\u0446\u0438\u0438
+      \u041A\u0435\u043F\u043B\u0435\u0440 \u0434\u043E\u043B\u0436\u0435\u043D \u0431\u044B\u0442\u044C
+      4 \u0443\u0440\u043E\u0432\u043D\u044F."
+    DescriptionEng: To continue synchronization, the Kepler must be level 4.
+    DescriptionPor: "Para continuar a sincroniza\xE7\xE3o, o Kepler deve estar no
+      n\xEDvel 4."
+    NameLoc: 3

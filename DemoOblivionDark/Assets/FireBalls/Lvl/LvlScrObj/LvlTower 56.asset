@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23b59f475cda3ef41b184efcb4429bd1, type: 3}
+  m_Name: LvlTower 56
+  m_EditorClassIdentifier: 
+  LvlStep:
+  - TowerSize: 51
+    Obstecles:
+    - PatternObj: {fileID: 5195369056639980899, guid: 7aae6caea0d73a64eba78ebcd3666b13, type: 3}
+      Degrees: -360
+      Duration: 4
+      Delay: 40
+      LoopType: 1
+      Ease: 4
+      MoveMulty: []
+    - PatternObj: {fileID: 5195369056639980899, guid: 055451d01c8f3064abf9140354bd6693, type: 3}
+      Degrees: 360
+      Duration: 5
+      Delay: 240
+      LoopType: 2
+      Ease: 4
+      MoveMulty: []
+  - TowerSize: 48
+    Obstecles:
+    - PatternObj: {fileID: 5195369056639980899, guid: b46e4ad3a863af549aaa802524bf2a8f, type: 3}
+      Degrees: -360
+      Duration: 8
+      Delay: 0
+      LoopType: 2
+      Ease: 7
+      MoveMulty: []
+    - PatternObj: {fileID: 5195369056639980899, guid: 013975dc77ef5db4680c03b42ae8bc4a, type: 3}
+      Degrees: 180
+      Duration: 6
+      Delay: 0
+      LoopType: 2
+      Ease: 4
+      MoveMulty: []
+  - TowerSize: 38
+    Obstecles:
+    - PatternObj: {fileID: 5195369056639980899, guid: 7e8ffe1c4784b9844ae0c04fab8d7a43, type: 3}
+      Degrees: 90
+      Duration: 2
+      Delay: 30
+      LoopType: 2
+      Ease: 4
+      MoveMulty: []
+  - TowerSize: 25
+    Obstecles:
+    - PatternObj: {fileID: 5195369056639980899, guid: 055451d01c8f3064abf9140354bd6693, type: 3}
+      Degrees: 360
+      Duration: 5
+      Delay: 25
+      LoopType: 2
+      Ease: 4
+      MoveMulty:
+      - Degrees: -180
+        Duration: 2.3
+        Ease: 4
+    - PatternObj: {fileID: 5195369056639980899, guid: 6a98920d99ab31846b8165825cad7f08, type: 3}
+      Degrees: 720
+      Duration: 16
+      Delay: 0
+      LoopType: 1
+      Ease: 4
+      MoveMulty: []
+  Tower: {fileID: 11400000, guid: 6d430ac5ee7d1f141981207a6b7d0bd9, type: 2}
+  Colors:
+  - {r: 0.039426245, g: 0, b: 0.6886792, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}

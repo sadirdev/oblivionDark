@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1116b589b6751af4f88792b32b767056, type: 3}
+  m_Name: "\u041A\u043E\u0440\u043E\u043B\u0435\u0432\u0430\u041F\u0430\u0443\u043A\u043E\u0432"
+  m_EditorClassIdentifier: 
+  Player: 0
+  Name: 13
+  TitleRus: "\u041A\u043E\u0440\u043E\u043B\u0435\u0432\u0430 \u041F\u0430\u0443\u043A\u043E\u0432"
+  TitleEng: The Spider Queen
+  TitlePor: Rainha Aranha
+  Main: 0
+  Icon: {fileID: 21300000, guid: 3d476edd14f726f41914f4feb47955c8, type: 3}
+  Missions:
+  - DescriptionRus: "\u0423\u043D\u0438\u0447\u0442\u043E\u0436\u044C\u0442\u0435
+      \u041A\u043E\u0440\u043E\u043B\u0435\u0432\u0443 \u041F\u0430\u0443\u043A\u043E\u0432
+      \u0432 \u041F\u0430\u0443\u0447\u044C\u0435\u043C \u0413\u0440\u043E\u0442\u0435."
+    DescriptionEng: Destroy the Spider Queen in the Spider Grotto.
+    DescriptionPor: Destrua a Rainha Aranha na Gruta das Aranhas.
+    NameLoc: 10
+  - DescriptionRus: "\u0412\u044B \u0441\u0440a\u0437\u0438\u043B\u0438 \u041A\u043E\u0440\u043E\u043B\u0435\u0432\u0443
+      \u041F\u0430\u0443\u043A\u043E\u0432. \u041E\u0442\u043F\u0440\u0430\u0432\u043B\u044F\u0439\u0442\u0435\u0441\u044C
+      \u043A \u043F\u0440\u0430\u0432\u0438\u0442\u0435\u043B\u044E \u043F\u043E\u0441\u0435\u043B\u0435\u043D\u0438\u044F."
+    DescriptionEng: You have defeated the Spider Queen. Go to the ruler of the settlement.
+    DescriptionPor: "Voc\xEA derrotou a Rainha Aranha. V\xE1 at\xE9 o governador
+      do assentamento."
+    NameLoc: 24

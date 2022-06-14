@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1116b589b6751af4f88792b32b767056, type: 3}
+  m_Name: "Kep_7lvl_\u0413\u0435\u043D\u043E\u0441\u041C\u0443\u043C\u0435\u043D"
+  m_EditorClassIdentifier: 
+  Player: 0
+  Name: 8
+  TitleRus: "\u0422\u0451\u043C\u043D\u044B\u0435 \u0434\u0435\u043B\u0438\u0448\u043A\u0438."
+  TitleEng: Shady dealings.
+  TitlePor: Coisas escuras.
+  Main: 1
+  Icon: {fileID: 21300000, guid: 9f606cc44e60ff349bb4360f166f941d, type: 3}
+  Missions:
+  - DescriptionRus: "\u0414\u043B\u044F \u043F\u0440\u043E\u0434\u043E\u043B\u0436\u0435\u043D\u0438\u044F
+      \u0441\u0438\u043D\u0445\u0440\u043E\u043D\u0438\u0437\u0430\u0446\u0438\u0438
+      \u043F\u043E\u0434\u043E\u0439\u0434\u0438 \u043A \u0421\u0430\u0439\u0442\u0430\u043C\u0435."
+    DescriptionEng: To continue syncing, go to Saitama.
+    DescriptionPor: "Para continuar a sincroniza\xE7\xE3o, aproxime-se de Saitama."
+    NameLoc: 6
+  - DescriptionRus: "\u0413\u0435\u043D\u043E\u0441\u0443 \u0438\u043D\u0442\u0435\u0440\u0435\u0441\u043D\u043E
+      \u043A\u0430\u043A\u0438\u043C\u0438 \u0434\u0435\u043B\u0430\u043C\u0438 \u0437\u0430\u043D\u0438\u043C\u0430\u0435\u0442\u0441\u044F
+      \"\u0422\u0451\u043C\u043D\u044B\u0439 \u0421\u0430\u0439\u0442\u0430\u043C\u0430\".
+      \u0414\u043B\u044F \u0442\u043E\u0433\u043E \u0447\u0442\u043E\u0431\u044B
+      \u0437\u043B\u043E\u0434\u0435\u0439 \u0432\u0437\u044F\u043B \u043A\u0438\u0431\u043E\u0440\u0433\u0430
+      \u0441 \u0441\u043E\u0431\u043E\u0439, \u0435\u043C\u0443 \u043D\u0430\u0434\u043E
+      \u0443\u0431\u0440\u0430\u0442\u044C\u0441\u044F \u0432 \u043A\u0432\u0430\u0440\u0442\u0438\u0440\u0435. "
+    DescriptionEng: Genos is interested in what "Dark Saitama" is doing. In order
+      for the villain to take the cyborg with him, he needs to clean up the apartment.
+    DescriptionPor: "Genos se pergunta o que \"Dark Saitama\" est\xE1 fazendo. Para
+      que o vil\xE3o leve o ciborgue com ele, ele precisa limpar o apartamento."
+    NameLoc: 6
+  - DescriptionRus: "\u041A\u0432\u0430\u0440\u0442\u0438\u0440\u0430 \u0443\u0431\u0440\u0430\u043D\u0430.
+      \u041F\u043E\u0440\u0430 \u0438\u0434\u0442\u0438 \u043A \u0421\u0430\u0439\u0442\u0430\u043C\u0435."
+    DescriptionEng: The apartment is cleaned. It's time to go to Saitama.
+    DescriptionPor: "O apartamento est\xE1 limpo. \xC9 hora de ir para Saitama."
+    NameLoc: 6
+  - DescriptionRus: "\u0421\u0430\u0439\u0442\u0430\u043C\u0430 \u0434\u043E\u0433\u043E\u0432\u043E\u0440\u0438\u043B\u0441\u044F
+      \u043E \u0432\u0441\u0442\u0440\u0435\u0447\u0435 \u0441 \u0411\u0435\u0437\u043B\u0438\u0446\u0435\u043D\u0437\u0438\u043E\u043D\u043D\u044B\u043C
+      \u0435\u0437\u0434\u043E\u043A\u043E\u043C \u043E\u043A\u043E\u043B\u043E \u0433\u043E\u0440\u043E\u0434\u0430
+      \u0415\u0442\u0430\u043B\u0435. \u041E\u0442\u043F\u0440\u0430\u0432\u043B\u044F\u0439\u0441\u044F
+      \u0442\u0443\u0434\u0430, \u0447\u0442\u043E\u0431\u044B \u0443\u0437\u043D\u0430\u0442\u044C
+      \u0447\u0435\u043C \u0437\u0430\u043D\u0438\u043C\u0430\u0435\u0442\u0441\u044F
+      \u0437\u043B\u043E\u0439 \u0421\u0430\u0439\u0442\u0430\u043C\u0430."
+    DescriptionEng: Saitama arranged a meeting with an Unlicensed Rider near the
+      town of Etale. Go there to find out what the evil Saitama is doing.
+    DescriptionPor: "Saitama marcou um encontro com Mumen perto da cidade de Etale.
+      V\xE1 l\xE1 para descobrir o que o malvado Saitama est\xE1 fazendo."
+    NameLoc: 16
+  - DescriptionRus: "\u0418\u0434\u0438 \u0432 \u0433\u043E\u0440\u043E\u0434 \u041A\u0440\u043E\u0430\u0432\u0438\u043B\u044C,
+      \u0447\u0442\u043E\u0431\u044B \u0432\u0441\u0442\u0440\u0435\u0442\u0438\u0442\u044C\u0441\u044F
+      \u0441 \u0411\u0438\u0442\u043E\u0439."
+    DescriptionEng: Go to the town of Croaville to meet the Bat.
+    DescriptionPor: "V\xE1 para a cidade de Croaville para encontrar Bat."
+    NameLoc: 18
+  - DescriptionRus: "\u041A\u0438\u043D\u044C \u043A\u0430\u043C\u0435\u043D\u044C
+      \u0432 \u043E\u043A\u043D\u043E, \u043D\u043E \u0442\u0430\u043A, \u0447\u0442\u043E\u0431\u044B
+      \u043D\u0435 \u0440\u0430\u0437\u0431\u0438\u0442\u044C \u0435\u0433\u043E.
+      \u0412\u043D\u0438\u043C\u0430\u043D\u0438\u0435 \u0411\u0438\u0442\u044B \u044D\u0442\u043E
+      \u0434\u043E\u043B\u0436\u043D\u043E \u043F\u0440\u0438\u0432\u043B\u0435\u0447\u044C."
+    DescriptionEng: Throw a stone at the window, but so as not to break it. This
+      should attract Bat's attention.
+    DescriptionPor: "Jogue uma pedra na janela, mas sem quebr\xE1-la. Isso deve chamar
+      a aten\xE7\xE3o de Bita."
+    NameLoc: 18
+  - DescriptionRus: "\u0421\u0430\u0439\u0442\u0430\u043C\u0430 \u043F\u0440\u0438\u043A\u0430\u0437\u0430\u043B
+      \u0413\u0435\u043D\u043E\u0441\u0443 \u043F\u0435\u0440\u0435\u0434\u0430\u0442\u044C
+      \u043C\u0435\u0447 \u0410\u0442\u043E\u043C\u043D\u043E\u043C\u0443 \u0421\u0430\u043C\u0443\u0440\u0430\u044E,
+      \u0442\u043E\u043B\u044C\u043A\u043E \u0433\u0434\u0435 \u043E\u043D \u043C\u043E\u0436\u0435\u0442
+      \u043D\u0430\u0445\u043E\u0434\u0438\u0442\u044C\u0441\u044F \u0432 \u044D\u0442\u043E\u0439
+      \u0432\u0441\u0435\u043B\u0435\u043D\u043D\u043E\u0439, \u043D\u0435\u0438\u0437\u0432\u0435\u0441\u0442\u043D\u043E."
+    DescriptionEng: Saitama ordered Genos to hand over the sword to the Atomic Samurai,
+      but it is not known where he can be in this universe.
+    DescriptionPor: "Saitama ordenou que Genos entregasse a espada ao Samurai At\xF4mico,
+      apenas onde ele poderia estar neste universo \xE9 desconhecido."
+    NameLoc: 0

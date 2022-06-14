@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9147227b95a5edc4880864e02edf44a2, type: 3}
+  m_Name: Tower 51
+  m_EditorClassIdentifier: 
+  Blocks:
+  - {fileID: 254372305180703343, guid: bd1b7557994967343b2d1692264ef9ad, type: 3}
+  Mesh: {fileID: -9111446733670104075, guid: cb4d41f5dd3edfc41800b6bc008d4eeb, type: 3}
+  Scale:
+  - 2
+  DeltaRotate: 0
+  DeltaPosition: 0

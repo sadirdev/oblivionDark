@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23b59f475cda3ef41b184efcb4429bd1, type: 3}
+  m_Name: LvlTower 27
+  m_EditorClassIdentifier: 
+  LvlStep:
+  - TowerSize: 48
+    Obstecles:
+    - PatternObj: {fileID: 5195369056639980899, guid: 4e98d30f3e1bcdf4090a14fb4f4d1197, type: 3}
+      Degrees: 270
+      Duration: 3
+      Delay: 0
+      LoopType: 2
+      Ease: 4
+      MoveMulty: []
+    - PatternObj: {fileID: 5195369056639980899, guid: 4e98d30f3e1bcdf4090a14fb4f4d1197, type: 3}
+      Degrees: 270
+      Duration: 5
+      Delay: 0
+      LoopType: 2
+      Ease: 4
+      MoveMulty: []
+  - TowerSize: 58
+    Obstecles:
+    - PatternObj: {fileID: 5195369056639980899, guid: 2220a370e107f2a49803661385ab6d9b, type: 3}
+      Degrees: 180
+      Duration: 2.8
+      Delay: -60
+      LoopType: 2
+      Ease: 4
+      MoveMulty: []
+  Tower: {fileID: 11400000, guid: cb51f86cf5b7a324c91191b9219d81a8, type: 2}
+  Colors:
+  - {r: 0.039426245, g: 0, b: 0.6886792, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}

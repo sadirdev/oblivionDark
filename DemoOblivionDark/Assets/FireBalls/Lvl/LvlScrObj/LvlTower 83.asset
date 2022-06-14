@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23b59f475cda3ef41b184efcb4429bd1, type: 3}
+  m_Name: LvlTower 83
+  m_EditorClassIdentifier: 
+  LvlStep:
+  - TowerSize: 58
+    Obstecles:
+    - PatternObj: {fileID: 5195369056639980899, guid: 5b7825d95a685834eba39aa6b7c28f55, type: 3}
+      Degrees: 360
+      Duration: 5.5
+      Delay: 25
+      LoopType: 1
+      Ease: 4
+      MoveMulty: []
+  - TowerSize: 50
+    Obstecles:
+    - PatternObj: {fileID: 5195369056639980899, guid: c19eb692c2352844290750314e724949, type: 3}
+      Degrees: 360
+      Duration: 5
+      Delay: -80
+      LoopType: 1
+      Ease: 4
+      MoveMulty: []
+  - TowerSize: 49
+    Obstecles:
+    - PatternObj: {fileID: 5195369056639980899, guid: d394fd914e4c7fc419a56ef9f8ec2482, type: 3}
+      Degrees: 720
+      Duration: 19
+      Delay: -110
+      LoopType: 2
+      Ease: 4
+      MoveMulty: []
+    - PatternObj: {fileID: 5195369056639980899, guid: e726e8abd4e51f2479adc90d1dfb6e4d, type: 3}
+      Degrees: -270
+      Duration: 7
+      Delay: -30
+      LoopType: 2
+      Ease: 4
+      MoveMulty: []
+  - TowerSize: 50
+    Obstecles:
+    - PatternObj: {fileID: 5195369056639980899, guid: 2220a370e107f2a49803661385ab6d9b, type: 3}
+      Degrees: 180
+      Duration: 3.5
+      Delay: -60
+      LoopType: 2
+      Ease: 4
+      MoveMulty:
+      - Degrees: -90
+        Duration: 2
+        Ease: 4
+    - PatternObj: {fileID: 5195369056639980899, guid: bfeebadcc00147c47ab9221c220a800a, type: 3}
+      Degrees: 360
+      Duration: 6.5
+      Delay: 240
+      LoopType: 2
+      Ease: 4
+      MoveMulty:
+      - Degrees: -180
+        Duration: 4.5
+        Ease: 4
+  Tower: {fileID: 11400000, guid: 91e84ef1adc945945aaf47a1653fd086, type: 2}
+  Colors:
+  - {r: 0.039426245, g: 0, b: 0.6886792, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
